@@ -8,19 +8,32 @@ The Infinite Monkey Theorem (IFT) says that if a monkey hits keys at random on a
 The IFT might lead to some interesting philosophical discussions, but from a practical point of view – who cares? A more promising line of inquiry might go like this: Could a monkey with prior knowledge of Claude Shannon’s information theory and Markov chains produce a reasonable imitation of a known text in a reasonable length of time? Now that might actually be interesting. It’s so interesting, in fact, that we should give it a name – the Markov Monkey Question (MMQ) – and we should spend some time thinking about it.
 
 It turns out that the answer to the MMQ is “maybe.” Here’s an example of a Star Trek TNG script produced by one of these “Markov monkeys” after reading representative samples of real TNG scripts.
+
 Riker: Geordi, what is the status of the expected upgrade.
+
 Geordi: Our scanners have picked up an increase in Borg storage and CPU capacity,
+
 Requesting permission to begin emergency escape sequence 3F!
+
 Geordi: [excited] Wait, Captain! Their CPU capacity has suddenly dropped to 0% !
+
 Picard: Data, what do your scanners show?
+
 Data: [studying displays] Appearently the Borg ship - with no life support suits!
 tortures of deep space?!
+
 Data: I believe you will look closer I believe that those are humans, sir. If you will look closer I believe you will see that they are carrying something recognized by twenty-first century man as doeskin leather briefcases, and wearing Armani suits.
+
 Riker and Picard, together [horrified] Lawyers!!
+
 Geordi: It can't be. All the Lawyers were rounded up and sent hurtling into the sun in 2017 during the Great Awakening.
+
 Data: True, but appearently some must have survived.
+
 Riker: They have surrounded the Borg have found the answer by searching through our archives on late Twentieth-century computing technology.
+
 Besides a few spelling errors and some rather odd things that make you wonder about the author, this passage is surprisingly human-like. It turns out that Markov monkeys can apply a basic idea first discussed by Claude Shannon to produce pretty good imitations of real text.
+
 So, here’s the basic idea: Imagine taking a book (say, Tom Sawyer) and determining the probability with which each character occurs. You would probably find that spaces are the most common, that the character 'e' is fairly common, and that the character 'q' is rather uncommon. After completing this “level 0” analysis, you'd be able to produce ￼￼￼￼￼￼￼￼￼￼￼￼￼￼random Tom Sawyer text based on character probabilities. It wouldn't have much in common with the real thing, but at least the characters would tend to occur in the proper proportion. In fact, here's an example of what you might produce:
 
 Level 0
